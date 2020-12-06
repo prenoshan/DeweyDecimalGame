@@ -1,0 +1,130 @@
+000 General Knowledge
+010 Bibliographies
+012 Bibliographies of individuals
+014 Bibliographies of anonymous & pseudonymous works
+015 Bibliographies of works from specific places
+016 Bibliographies of works on specific subjects
+017 General subject catalogs	
+080 Quotations
+082 Collections in English
+083 Collections in other Germanic languages
+084 Collections in French, Occitan, Catalan
+085 Collections in Italian, Romanian, & related languages
+086 Collections in Spanish & Portuguese
+100 Philosophy and Psychology
+140 Philosophical schools of thought
+141 Idealism & related systems & doctrines
+142 Critical philosophy
+143 Bergsonism & intuitionism
+144 Humanism & related systems & doctrines
+145 Sensationalism
+170 Ethics
+171 Ethical systems
+172 Political ethics
+173 Ethics of family relationships
+174 Occupational ethics
+177 Ethics of social relations
+200 Religion
+210 Philosophy & theory of religion
+211 Concepts of God
+212 Existence, ways of knowing God, attributes of God
+213 Creation
+214 Theodicy
+215 Science & religion
+270 History of Christianity
+271 Religious congregations and orders in church history
+272 Persecutions in church history
+274 Christianity in Europe
+275 Christianity in Asia
+276 Christianity in Africa
+300 Social Sciences
+310 Statistics
+314 General statistics of Europe
+315 General statistics of Asia
+316 General statistics of Africa
+317 General statistics of North America
+318 General statistics of South America
+340 Law
+341 Law of nations
+342 Constitutional & administrative law
+344 Labor, social service, education, cultural law
+345 Criminal law
+348 Laws, regulations, cases
+400 Languages
+410 Linguistics
+411 Writing systems of standard forms of languages
+412 Etymology of standard forms of languages
+413 Dictionaries of standard forms of languages
+414 Phonology & phonetics of standard forms of languages
+415 Grammar of standard forms of languages
+430 German & related languages
+431 Writing systems, phonology, phonetics of standard German
+432 Etymology of standard German
+433 Dictionaries of standard German
+435 Grammar of standard German
+437 Historical & geographic variations, modern nongeographic variations of German
+500 Science
+510 Mathematics
+511 General principles of mathematics
+512 Algebra
+513 Arithmetic
+514 Topology
+515 Analysis
+520 Astronomy
+521 Celestial mechanics
+522 Techniques, procedures, apparatus, equipment, materials
+523 Specific celestial bodies & phenomena
+525 Earth
+527 Celestial navigation
+600 Technology
+610 Medicine & health
+611 Human anatomy, cytology, histology
+612 Human physiology
+613 Personal health & safety
+615 Pharmacology and therapeutics
+616 Diseases
+620 Engineering
+621 Applied physics
+622 Mining & related operations
+623 Military & nautical engineering
+624 Civil engineering
+625 Engineering of railroads, roads
+700 Arts and Recreation
+740 Graphic arts & decorative arts
+741 Drawing & drawings
+742 Perspective in drawing
+743 Drawing & drawings by subject
+745 Decorative arts
+746 Textile arts
+790 Outline of sports, games & entertainment
+791 Public performances
+792 Stage presentations
+793 Indoor games & amusements
+794 Indoor games of skill
+795 Games of chance
+800 Literature
+830 German & related literatures
+831 German poetry
+832 German drama
+833 German fiction
+834 German essays
+835 German speeches
+840 French & related literatures
+841 French poetry
+842 French drama
+843 French fiction
+844 French essays
+845 French speeches
+900 History and Geography
+910 Geography & travel
+911 Historical geography
+913 Geography of & travel in ancient world
+914 Geography of & travel in Europe
+915 Geography of & travel in Asia
+916 Geography of & travel in Africa
+940 History of Europe
+941 British Isles
+942 England & Wales
+944 France & Monaco
+945 Italy, San Marino, Vatican City, Malta
+948 Scandinavia

@@ -1,0 +1,6 @@
+C:\Users\Prenoshan\source\repos\DeweyDecimalGame\ScoreDLL\bin\Debug\ScoreDLL.dll
+C:\Users\Prenoshan\source\repos\DeweyDecimalGame\ScoreDLL\bin\Debug\ScoreDLL.pdb
+C:\Users\Prenoshan\source\repos\DeweyDecimalGame\ScoreDLL\obj\Debug\ScoreDLL.csproj.CoreCompileInputs.cache
+C:\Users\Prenoshan\source\repos\DeweyDecimalGame\ScoreDLL\obj\Debug\ScoreDLL.dll
+C:\Users\Prenoshan\source\repos\DeweyDecimalGame\ScoreDLL\obj\Debug\ScoreDLL.pdb
+C:\Users\Prenoshan\source\repos\DeweyDecimalGame\ScoreDLL\obj\Debug\ScoreDLL.csprojAssemblyReference.cache

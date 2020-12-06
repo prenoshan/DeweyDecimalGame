@@ -1,0 +1,6 @@
+C:\Users\Prenoshan\source\repos\DeweyDecimalGame\DBHelperDLL\bin\Debug\DBHelperDLL.dll
+C:\Users\Prenoshan\source\repos\DeweyDecimalGame\DBHelperDLL\bin\Debug\DBHelperDLL.pdb
+C:\Users\Prenoshan\source\repos\DeweyDecimalGame\DBHelperDLL\obj\Debug\DBHelperDLL.csproj.CoreCompileInputs.cache
+C:\Users\Prenoshan\source\repos\DeweyDecimalGame\DBHelperDLL\obj\Debug\DBHelperDLL.dll
+C:\Users\Prenoshan\source\repos\DeweyDecimalGame\DBHelperDLL\obj\Debug\DBHelperDLL.pdb
+C:\Users\Prenoshan\source\repos\DeweyDecimalGame\DBHelperDLL\obj\Debug\DBHelperDLL.csprojAssemblyReference.cache

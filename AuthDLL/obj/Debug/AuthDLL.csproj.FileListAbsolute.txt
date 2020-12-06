@@ -1,0 +1,6 @@
+C:\Users\Prenoshan\source\repos\DeweyDecimalGame\AuthDLL\bin\Debug\AuthDLL.dll
+C:\Users\Prenoshan\source\repos\DeweyDecimalGame\AuthDLL\bin\Debug\AuthDLL.pdb
+C:\Users\Prenoshan\source\repos\DeweyDecimalGame\AuthDLL\obj\Debug\AuthDLL.csproj.CoreCompileInputs.cache
+C:\Users\Prenoshan\source\repos\DeweyDecimalGame\AuthDLL\obj\Debug\AuthDLL.dll
+C:\Users\Prenoshan\source\repos\DeweyDecimalGame\AuthDLL\obj\Debug\AuthDLL.pdb
+C:\Users\Prenoshan\source\repos\DeweyDecimalGame\AuthDLL\obj\Debug\AuthDLL.csprojAssemblyReference.cache

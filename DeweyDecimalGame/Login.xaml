@@ -1,0 +1,106 @@
+﻿<Window x:Class="DeweyDecimalGame.Login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13"
+        TextOptions.TextFormattingMode="Ideal" 
+        TextOptions.TextRenderingMode="Auto"        
+        Background="{DynamicResource MaterialDesignPaper}"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        WindowStartupLocation="CenterScreen"
+        xmlns:local="clr-namespace:DeweyDecimalGame"
+        mc:Ignorable="d"
+        Title="Login" Height="600" Width="600" ResizeMode="CanMinimize">
+    <Grid>
+
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF2C3B50" Offset="1"/>
+                <GradientStop Color="#FF232526"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+
+
+        <StackPanel HorizontalAlignment="Left" Height="571" VerticalAlignment="Top" Width="292">
+            <StackPanel.Background>
+                <ImageBrush ImageSource="/res/firewatch.jpg" Stretch="UniformToFill"/>
+            </StackPanel.Background>
+        </StackPanel>
+
+
+        <StackPanel HorizontalAlignment="Left" Height="250" VerticalAlignment="Top" Width="270" Margin="10,10,0,0">
+            <StackPanel.Background>
+                <ImageBrush ImageSource="/res/logo.jpg" Stretch="UniformToFill"/>
+            </StackPanel.Background>
+        </StackPanel>
+
+        <TextBlock
+            TextAlignment="Center"
+        Style="{StaticResource MaterialDesignBody1TextBlock}" 
+        FontSize="28"    
+        Margin="297,26,10,461" TextWrapping="Wrap">
+        Login to your gaming profile
+        </TextBlock>
+
+        <TextBox x:Name="tbUsername"
+                 materialDesign:HintAssist.Hint="Username"
+                  Style="{StaticResource MaterialDesignFloatingHintTextBox}" Margin="320,134,32,373" FontSize="20"/>
+
+        <PasswordBox x:Name="tbPassword"
+                     materialDesign:HintAssist.Hint="Password"
+                     Style="{StaticResource
+            MaterialDesignFloatingHintPasswordBox}"
+                     FontSize="20" Margin="320,214,32,293"/>
+
+        <Button x:Name="btnLogin" Content="Login"
+                Click="btnLogin_Click"
+                FontSize="24"
+                HorizontalAlignment="Left" Margin="339,327,0,0" VerticalAlignment="Top" Width="202" Height="65"/>
+
+        <TextBlock
+            TextAlignment="Center"
+            PreviewMouseDown="goToRegister_PreviewMouseDown"
+            TextDecorations="underline"
+        x:Name="goToRegister"
+        Style="{StaticResource MaterialDesignBody1TextBlock}" 
+        FontSize="20"    
+        Margin="343,410,49,125">
+        Or Register
+        </TextBlock>
+
+        <!--Dialogs-->
+        <materialDesign:DialogHost Name="invalidDetailsDialog" BorderBrush="{DynamicResource MaterialDesignDivider}">
+
+            <materialDesign:DialogHost.DialogContent>
+
+                <StackPanel
+        Margin="16">
+
+                    <TextBlock
+        Style="{StaticResource MaterialDesignBody1TextBlock}" 
+        FontSize="20"
+         HorizontalAlignment="Center"
+          Margin="16">
+        Invalid details, try again
+                    </TextBlock>
+
+                    <Button
+          Style="{StaticResource MaterialDesignFlatButton}"
+          IsCancel="True"
+          Command="{x:Static materialDesign:DialogHost.CloseDialogCommand}"
+          HorizontalAlignment="Center">
+                        Ok
+                    </Button>
+
+                </StackPanel>
+
+            </materialDesign:DialogHost.DialogContent>
+
+        </materialDesign:DialogHost>
+
+    </Grid>
+</Window>

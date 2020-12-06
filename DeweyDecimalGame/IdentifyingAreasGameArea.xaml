@@ -1,0 +1,331 @@
+﻿<Window x:Class="DeweyDecimalGame.IdentifyingAreasGameArea"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13"
+        TextOptions.TextFormattingMode="Ideal" 
+        TextOptions.TextRenderingMode="Auto"        
+        Background="{DynamicResource MaterialDesignPaper}"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        WindowStartupLocation="CenterScreen"
+        xmlns:local="clr-namespace:DeweyDecimalGame"
+        mc:Ignorable="d"
+        Title="Identifying Areas" Height="700" Width="1300" ResizeMode="CanMinimize">
+    <Grid>
+
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF2C3B50" Offset="1"/>
+                <GradientStop Color="#FF232526"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+
+        <TextBlock x:Name="tbSectionOne" HorizontalAlignment="Left" Margin="22,20,0,0" TextWrapping="Wrap" Text="Section One" VerticalAlignment="Top" FontSize="18"/>
+
+        <TextBlock HorizontalAlignment="Left" Margin="170,80,0,0" TextWrapping="Wrap" Text="1" VerticalAlignment="Top" FontSize="18"/>
+
+        <TextBlock HorizontalAlignment="Left" Margin="170,300,0,0" TextWrapping="Wrap" Text="1" VerticalAlignment="Top" FontSize="18"/>
+
+        <TextBlock HorizontalAlignment="Left" Margin="345,80,0,0" TextWrapping="Wrap" Text="2" VerticalAlignment="Top" FontSize="18"/>
+
+        <TextBlock HorizontalAlignment="Left" Margin="345,300,0,0" TextWrapping="Wrap" Text="2" VerticalAlignment="Top" FontSize="18"/>
+
+        <TextBlock HorizontalAlignment="Left" Margin="520,80,0,0" TextWrapping="Wrap" Text="3" VerticalAlignment="Top" FontSize="18"/>
+
+        <TextBlock HorizontalAlignment="Left" Margin="520,300,0,0" TextWrapping="Wrap" Text="3" VerticalAlignment="Top" FontSize="18"/>
+
+        <TextBlock HorizontalAlignment="Left" Margin="700,80,0,0" TextWrapping="Wrap" Text="4" VerticalAlignment="Top" FontSize="18"/>
+
+        <TextBlock HorizontalAlignment="Left" Margin="700,300,0,0" TextWrapping="Wrap" Text="4" VerticalAlignment="Top" FontSize="18"/>
+
+        <!--Questions Grids-->
+        <Grid Height="150" Width="150" x:Name="gridOneQuest" Margin="0,0,1108,409">
+
+            <StackPanel x:Name="stackOneQuest" Background="Blue" HorizontalAlignment="Left" Height="150" Margin="0,0,0,0" VerticalAlignment="Top" Width="150">
+
+                <TextBlock x:Name="tbOneQuest" Margin="0,65,0,0" Text="Hello" TextAlignment="Center" Foreground="White" TextWrapping="Wrap"/>
+
+            </StackPanel>
+
+        </Grid>
+
+        <Grid Height="150" Width="150" x:Name="gridTwoQuest" Margin="0,0,758,409">
+
+            <StackPanel x:Name="stackTwoQuest" Background="Blue" HorizontalAlignment="Left" Height="150" Margin="0,0,0,0" VerticalAlignment="Top" Width="150">
+
+                <TextBlock x:Name="tbTwoQuest" Margin="0,65,0,0" Text="Hello" TextAlignment="Center" Foreground="White" TextWrapping="Wrap"/>
+
+            </StackPanel>
+
+        </Grid>
+
+        <Grid Height="150" Width="150" x:Name="gridThreeQuest" Margin="0,0,406,409">
+
+            <StackPanel x:Name="stackThreeQuest" Background="Blue" HorizontalAlignment="Left" Height="150" Margin="0,0,0,0" VerticalAlignment="Top" Width="150">
+
+                <TextBlock x:Name="tbThreeQuest" Margin="0,65,0,0" Text="Hello" TextAlignment="Center" Foreground="White" TextWrapping="Wrap"/>
+
+            </StackPanel>
+
+        </Grid>
+
+        <Grid Height="150" Width="150" x:Name="gridFourQuest" Margin="0,0,52,409">
+
+            <StackPanel x:Name="stackFourQuest" Background="Blue" HorizontalAlignment="Left" Height="150" Margin="0,0,0,0" VerticalAlignment="Top" Width="150">
+
+                <TextBlock x:Name="tbFourQuest" Margin="0,65,0,0" Text="Hello" TextAlignment="Center" Foreground="White" TextWrapping="Wrap"/>
+
+            </StackPanel>
+
+        </Grid>
+
+        <TextBlock x:Name="tbSectionTwo" HorizontalAlignment="Left" Margin="22,218,0,0" TextWrapping="Wrap" Text="Section Two" VerticalAlignment="Top" FontSize="18"/>
+
+        <!--Answers Grids-->
+        <Grid Drop="grid_Drop" Height="150" Width="150" x:Name="gridOneAns" Margin="0,20,1108,0" AllowDrop="True" MouseLeftButtonDown="grid_MouseLeftButtonDown">
+
+            <StackPanel x:Name="stackOneAns" Background="Blue" HorizontalAlignment="Left" Height="150" Margin="0,0,0,0" VerticalAlignment="Top" Width="150">
+
+                <TextBlock x:Name="tbOneAns" Margin="0,65,0,0" Text="Drop answer one here" TextAlignment="Center" Foreground="White" TextWrapping="Wrap"/>
+
+            </StackPanel>
+
+        </Grid>
+
+        <Grid Drop="grid_Drop" Height="150" Width="150" x:Name="gridTwoAns" Margin="0,20,758,0" AllowDrop="True" MouseLeftButtonDown="grid_MouseLeftButtonDown">
+
+            <StackPanel x:Name="stackTwoAns" Background="Blue" HorizontalAlignment="Left" Height="150" Margin="0,0,0,0" VerticalAlignment="Top" Width="150">
+
+                <TextBlock x:Name="tbTwoAns" Margin="0,65,0,0" Text="Drop answer two here" TextAlignment="Center" Foreground="White" TextWrapping="Wrap"/>
+
+            </StackPanel>
+
+        </Grid>
+
+        <Grid Drop="grid_Drop" Height="150" Width="150" x:Name="gridThreeAns" Margin="0,20,406,0" AllowDrop="True" MouseLeftButtonDown="grid_MouseLeftButtonDown">
+
+            <StackPanel x:Name="stackThreeAns" Background="Blue" HorizontalAlignment="Left" Height="150" Margin="0,0,0,0" VerticalAlignment="Top" Width="150">
+
+                <TextBlock x:Name="tbThreeAns" Margin="0,65,0,0" Text="Drop answer three here" TextAlignment="Center" Foreground="White" TextWrapping="Wrap"/>
+
+            </StackPanel>
+
+        </Grid>
+
+        <Grid Drop="grid_Drop" Height="150" Width="150" x:Name="gridFourAns" Margin="0,20,52,0" AllowDrop="True" MouseLeftButtonDown="grid_MouseLeftButtonDown">
+
+            <StackPanel x:Name="stackFourAns" Background="Blue" HorizontalAlignment="Left" Height="150" Margin="0,0,0,0" VerticalAlignment="Top" Width="150">
+
+                <TextBlock x:Name="tbFourAns" Margin="0,65,0,0" Text="Drop answer four here" TextAlignment="Center" Foreground="White" TextWrapping="Wrap"/>
+
+            </StackPanel>
+
+        </Grid>
+
+        <TextBlock HorizontalAlignment="Left" Margin="22,459,0,0" TextWrapping="Wrap" Text="Possible Options - These are your options, drag and drop them in their correct answer block above" VerticalAlignment="Top" FontSize="18"/>
+
+        <!--Options Grids-->
+        <Grid Drop="grid_Drop" Height="150" Width="150" x:Name="gridOneOpt" Margin="0,479,1108,0" AllowDrop="True" MouseLeftButtonDown="grid_MouseLeftButtonDown">
+
+            <StackPanel x:Name="stackOneOpt" Background="Blue" HorizontalAlignment="Left" Height="150" Margin="0,0,0,0" VerticalAlignment="Top" Width="150">
+
+                <TextBlock x:Name="tbOneOpt" Margin="0,65,0,0" Text="Hello" TextAlignment="Center" Foreground="White" TextWrapping="Wrap"/>
+
+            </StackPanel>
+
+        </Grid>
+
+        <Grid Drop="grid_Drop" Height="150" Width="150" x:Name="gridTwoOpt" Margin="0,479,758,0" AllowDrop="True" MouseLeftButtonDown="grid_MouseLeftButtonDown">
+
+            <StackPanel x:Name="stackTwoOpt" Background="Blue" HorizontalAlignment="Left" Height="150" Margin="0,0,0,0" VerticalAlignment="Top" Width="150">
+
+                <TextBlock x:Name="tbTwoOpt" Margin="0,65,0,0" Text="Hello" TextAlignment="Center" Foreground="White" TextWrapping="Wrap"/>
+
+            </StackPanel>
+
+        </Grid>
+
+        <Grid Drop="grid_Drop" Height="150" Width="150" x:Name="gridThreeOpt" Margin="0,479,406,0" AllowDrop="True" MouseLeftButtonDown="grid_MouseLeftButtonDown">
+
+            <StackPanel x:Name="stackThreeOpt" Background="Blue" HorizontalAlignment="Left" Height="150" Margin="0,0,0,0" VerticalAlignment="Top" Width="150">
+
+                <TextBlock x:Name="tbThreeOpt" Margin="0,65,0,0" Text="Hello" TextAlignment="Center" Foreground="White" TextWrapping="Wrap"/>
+
+            </StackPanel>
+
+        </Grid>
+
+        <Grid Drop="grid_Drop" Height="150" Width="150" x:Name="gridFourOpt" Margin="0,479,56,0" AllowDrop="True" MouseLeftButtonDown="grid_MouseLeftButtonDown">
+
+            <StackPanel x:Name="stackFourOpt" Background="Blue" HorizontalAlignment="Left" Height="150" Margin="0,0,0,0" VerticalAlignment="Top" Width="150">
+
+                <TextBlock x:Name="tbFourOpt" Margin="0,65,0,0" Text="Hello" TextAlignment="Center" Foreground="White" TextWrapping="Wrap"/>
+
+            </StackPanel>
+
+        </Grid>
+
+        <Grid Drop="grid_Drop" Height="150" Width="150" x:Name="gridFiveOpt" Margin="290,479,0,0" AllowDrop="True" MouseLeftButtonDown="grid_MouseLeftButtonDown">
+
+            <StackPanel x:Name="stackFiveOpt" Background="Blue" HorizontalAlignment="Left" Height="150" Margin="0,0,0,0" VerticalAlignment="Top" Width="150">
+
+                <TextBlock x:Name="tbFiveOpt" Margin="0,65,0,0" Text="Hello" TextAlignment="Center" Foreground="White" TextWrapping="Wrap"/>
+
+            </StackPanel>
+
+        </Grid>
+
+        <Grid Drop="grid_Drop" Height="150" Width="150" x:Name="gridSixOpt" Margin="640,479,0,0" AllowDrop="True" MouseLeftButtonDown="grid_MouseLeftButtonDown">
+
+            <StackPanel x:Name="stackSixOpt" Background="Blue" HorizontalAlignment="Left" Height="150" Margin="0,0,0,0" VerticalAlignment="Top" Width="150">
+
+                <TextBlock x:Name="tbSixOpt" Margin="0,65,0,0" Text="Hello" TextAlignment="Center" Foreground="White" TextWrapping="Wrap"/>
+
+            </StackPanel>
+
+        </Grid>
+
+        <Grid Drop="grid_Drop" Height="150" Width="150" x:Name="gridSevenOpt" Margin="992,479,0,0" AllowDrop="True" MouseLeftButtonDown="grid_MouseLeftButtonDown">
+
+            <StackPanel x:Name="stackSevenOpt" Background="Blue" HorizontalAlignment="Left" Height="150" Margin="0,0,0,0" VerticalAlignment="Top" Width="150">
+
+                <TextBlock x:Name="tbSevenOpt" Margin="0,65,0,0" Text="Hello" TextAlignment="Center" Foreground="White" TextWrapping="Wrap"/>
+
+            </StackPanel>
+
+        </Grid>
+
+        <!--Buttons-->
+        <Button x:Name="btnSubmitOptions" Content="Submit Answers" Click="btnSubmitOptions_Click"
+                FontSize="16"
+                HorizontalAlignment="Left" Margin="1113,278,0,0" VerticalAlignment="Top" Width="150" Height="65"/>
+
+        <Button x:Name="btnPlayModeAgain" Click="btnPlayModeAgain_Click" Content="Play Again"
+                FontSize="16"
+                HorizontalAlignment="Left" Margin="948,278,0,0" VerticalAlignment="Top" Width="150" Height="65"/>
+
+        <Button x:Name="btnLogOff" Content="Log Out" Click="btnLogOff_Click"
+                FontSize="16"
+                HorizontalAlignment="Left" Margin="1113,358,0,0" VerticalAlignment="Top" Width="150" Height="65"/>
+
+        <Button x:Name="btnViewModeScore" Content="View Score" Click="btnViewModeScore_Click"
+                FontSize="16"
+                HorizontalAlignment="Left" Margin="948,358,0,0" VerticalAlignment="Top" Width="150" Height="65"/>
+
+        <!--Timer and high score-->
+        <TextBlock HorizontalAlignment="Left" Margin="1003,31,0,0" TextWrapping="Wrap" Text="Beat your time, Clock is ticking!!!" VerticalAlignment="Top" FontSize="18"/>
+
+        <TextBlock x:Name="tbModeTimer" HorizontalAlignment="Left" Margin="1003,58,0,0" TextWrapping="Wrap" Text="00:00:00" VerticalAlignment="Top" FontSize="18"/>
+
+        <TextBlock HorizontalAlignment="Left" Margin="1003,106,0,0" TextWrapping="Wrap" Text="Current high score" VerticalAlignment="Top" FontSize="18"/>
+
+        <TextBlock x:Name="tbModeHighScore" HorizontalAlignment="Left" Margin="1003,136,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" FontSize="18"/>
+
+        <!--Dialogs-->
+        <materialDesign:DialogHost Name="resultsDialog" BorderBrush="{DynamicResource MaterialDesignDivider}">
+
+            <materialDesign:DialogHost.DialogContent>
+
+                <StackPanel
+        Margin="16">
+
+                    <TextBlock x:Name="tbCorrectDialog"
+        Style="{StaticResource MaterialDesignBody1TextBlock}" 
+        FontSize="20"
+         HorizontalAlignment="Center"
+          Margin="16">
+                    </TextBlock>
+
+                    <TextBlock x:Name="tbIncorrectDialog"
+        Style="{StaticResource MaterialDesignBody1TextBlock}" 
+        FontSize="20"
+         HorizontalAlignment="Center"
+          Margin="16">
+                    </TextBlock>
+
+                    <ListView x:Name="lvWrongAnswers">
+
+                    </ListView>
+
+                    <Button
+          Style="{StaticResource MaterialDesignFlatButton}"
+          IsCancel="True"
+          Command="{x:Static materialDesign:DialogHost.CloseDialogCommand}"
+          HorizontalAlignment="Center">
+                        Ok
+                    </Button>
+
+                </StackPanel>
+
+            </materialDesign:DialogHost.DialogContent>
+
+        </materialDesign:DialogHost>
+
+        <materialDesign:DialogHost Name="invalidAnswersDialog" BorderBrush="{DynamicResource MaterialDesignDivider}">
+
+            <materialDesign:DialogHost.DialogContent>
+
+                <StackPanel
+        Margin="16">
+
+                    <TextBlock
+        Style="{StaticResource MaterialDesignBody1TextBlock}" 
+        FontSize="20"
+         HorizontalAlignment="Center"
+          Margin="16">
+        You must select an answer for each block in section 2, Please try again
+                    </TextBlock>
+
+                    <Button
+          Style="{StaticResource MaterialDesignFlatButton}"
+          IsCancel="True"
+          Command="{x:Static materialDesign:DialogHost.CloseDialogCommand}"
+          HorizontalAlignment="Center">
+                        Ok
+                    </Button>
+
+                </StackPanel>
+
+            </materialDesign:DialogHost.DialogContent>
+
+        </materialDesign:DialogHost>
+
+        <materialDesign:DialogHost Name="scoresDialog" BorderBrush="{DynamicResource MaterialDesignDivider}">
+
+            <materialDesign:DialogHost.DialogContent>
+
+                <StackPanel x:Name="stckScoresDialog"
+        Margin="16">
+
+                    <TextBlock x:Name="tbYourScores"
+        Style="{StaticResource MaterialDesignBody1TextBlock}" 
+        FontSize="20"
+         HorizontalAlignment="Center"
+          Margin="16" Text="Your Scores">
+                    </TextBlock>
+
+                    <DataGrid AutoGeneratedColumns="dgScores_AutoGeneratedColumns" x:Name="dgScores" IsReadOnly="True">
+
+                    </DataGrid>
+
+                    <Button
+          Style="{StaticResource MaterialDesignFlatButton}"
+          IsCancel="True"
+          Command="{x:Static materialDesign:DialogHost.CloseDialogCommand}"
+          HorizontalAlignment="Center">
+                        Ok
+                    </Button>
+
+                </StackPanel>
+
+            </materialDesign:DialogHost.DialogContent>
+
+        </materialDesign:DialogHost>
+
+    </Grid>
+
+</Window>

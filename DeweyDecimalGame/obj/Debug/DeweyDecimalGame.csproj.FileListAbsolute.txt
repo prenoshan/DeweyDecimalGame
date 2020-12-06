@@ -1,0 +1,207 @@
+C:\Users\Prenoshan\source\repos\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame.csprojAssemblyReference.cache
+C:\Users\Prenoshan\source\repos\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\MainWindow.g.cs
+C:\Users\Prenoshan\source\repos\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\Register.g.cs
+C:\Users\Prenoshan\source\repos\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\App.g.cs
+C:\Users\Prenoshan\source\repos\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame_MarkupCompile.cache
+C:\Users\Prenoshan\source\repos\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame_MarkupCompile.lref
+C:\Users\Prenoshan\source\repos\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\DeweyDecimalGame.exe.config
+C:\Users\Prenoshan\source\repos\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\DeweyDecimalGame.exe
+C:\Users\Prenoshan\source\repos\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\DeweyDecimalGame.pdb
+C:\Users\Prenoshan\source\repos\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\MaterialDesignColors.dll
+C:\Users\Prenoshan\source\repos\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Prenoshan\source\repos\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Prenoshan\source\repos\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Prenoshan\source\repos\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Prenoshan\source\repos\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\App.baml
+C:\Users\Prenoshan\source\repos\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\MainWindow.baml
+C:\Users\Prenoshan\source\repos\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\Register.baml
+C:\Users\Prenoshan\source\repos\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame.g.resources
+C:\Users\Prenoshan\source\repos\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame.Properties.Resources.resources
+C:\Users\Prenoshan\source\repos\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame.csproj.GenerateResource.cache
+C:\Users\Prenoshan\source\repos\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame.csproj.CoreCompileInputs.cache
+C:\Users\Prenoshan\source\repos\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame.csproj.CopyComplete
+C:\Users\Prenoshan\source\repos\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame.exe
+C:\Users\Prenoshan\source\repos\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame.pdb
+C:\Users\Prenoshan\source\repos\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\AppData\DeweyDB.mdf
+C:\Users\Prenoshan\source\repos\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\AppData\DeweyDB_log.ldf
+C:\Users\Prenoshan\source\repos\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\Login.g.cs
+C:\Users\Prenoshan\source\repos\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame_Content.g.cs
+C:\Users\Prenoshan\source\repos\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\Login.baml
+C:\Users\Prenoshan\source\repos\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\AuthDLL.dll
+C:\Users\Prenoshan\source\repos\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\DBHelperDLL.dll
+C:\Users\Prenoshan\source\repos\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\AuthDLL.pdb
+C:\Users\Prenoshan\source\repos\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\DBHelperDLL.pdb
+C:\Users\Prenoshan\source\repos\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\ReplacingBooksCategories.g.cs
+C:\Users\Prenoshan\source\repos\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\ReplacingBooksGameArea.g.cs
+C:\Users\Prenoshan\source\repos\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\ReplacingBooksCategories.baml
+C:\Users\Prenoshan\source\repos\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\ReplacingBooksGameArea.baml
+C:\Users\Prenoshan\source\repos\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\ScoreDLL.dll
+C:\Users\Prenoshan\source\repos\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\ScoreDLL.pdb
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 1\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\AppData\DeweyDB.mdf
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 1\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\AppData\DeweyDB_log.ldf
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 1\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\DeweyDecimalGame.exe.config
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 1\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\DeweyDecimalGame.exe
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 1\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\DeweyDecimalGame.pdb
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 1\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\AuthDLL.dll
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 1\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\DBHelperDLL.dll
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 1\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\MaterialDesignColors.dll
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 1\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 1\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\ScoreDLL.dll
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 1\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\AuthDLL.pdb
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 1\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\DBHelperDLL.pdb
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 1\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\ScoreDLL.pdb
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 1\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 1\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 1\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 1\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame.csprojAssemblyReference.cache
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 1\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\Login.g.cs
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 1\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\MainWindow.g.cs
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 1\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\Register.g.cs
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 1\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\ReplacingBooksCategories.g.cs
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 1\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\ReplacingBooksGameArea.g.cs
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 1\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\App.g.cs
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 1\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame_Content.g.cs
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 1\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame_MarkupCompile.cache
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 1\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame_MarkupCompile.lref
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 1\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\App.baml
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 1\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\Login.baml
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 1\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\MainWindow.baml
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 1\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\Register.baml
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 1\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\ReplacingBooksCategories.baml
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 1\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\ReplacingBooksGameArea.baml
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 1\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame.g.resources
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 1\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame.Properties.Resources.resources
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 1\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame.csproj.GenerateResource.cache
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 1\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame.csproj.CoreCompileInputs.cache
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 1\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame.csproj.CopyComplete
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 1\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame.exe
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 1\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame.pdb
+C:\Users\Prenoshan\source\repos\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\IdentifyingAreasGameArea.g.cs
+C:\Users\Prenoshan\source\repos\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\IdentifyingAreasGameArea.baml
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 2\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\AppData\DeweyDB.mdf
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 2\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\AppData\DeweyDB_log.ldf
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 2\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\DeweyDecimalGame.exe.config
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 2\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\DeweyDecimalGame.exe
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 2\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\DeweyDecimalGame.pdb
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 2\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\AuthDLL.dll
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 2\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\DBHelperDLL.dll
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 2\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\MaterialDesignColors.dll
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 2\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 2\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\ScoreDLL.dll
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 2\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\AuthDLL.pdb
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 2\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\DBHelperDLL.pdb
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 2\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\ScoreDLL.pdb
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 2\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 2\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 2\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 2\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame.csprojAssemblyReference.cache
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 2\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\IdentifyingAreasGameArea.g.cs
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 2\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\Login.g.cs
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 2\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\MainWindow.g.cs
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 2\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\Register.g.cs
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 2\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\ReplacingBooksCategories.g.cs
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 2\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\ReplacingBooksGameArea.g.cs
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 2\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\App.g.cs
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 2\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame_Content.g.cs
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 2\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame_MarkupCompile.cache
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 2\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame_MarkupCompile.lref
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 2\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\App.baml
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 2\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\IdentifyingAreasGameArea.baml
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 2\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\Login.baml
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 2\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\MainWindow.baml
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 2\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\Register.baml
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 2\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\ReplacingBooksCategories.baml
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 2\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\ReplacingBooksGameArea.baml
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 2\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame.g.resources
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 2\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame.Properties.Resources.resources
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 2\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame.csproj.GenerateResource.cache
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 2\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame.csproj.CoreCompileInputs.cache
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 2\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame.csproj.CopyComplete
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 2\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame.exe
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 POE Task 2\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame.pdb
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 Final POE\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame.csprojAssemblyReference.cache
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 Final POE\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\FindingCallNumbersGameArea.g.cs
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 Final POE\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\IdentifyingAreasGameArea.g.cs
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 Final POE\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\Login.g.cs
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 Final POE\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\MainWindow.g.cs
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 Final POE\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\Register.g.cs
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 Final POE\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\ReplacingBooksCategories.g.cs
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 Final POE\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\ReplacingBooksGameArea.g.cs
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 Final POE\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\App.g.cs
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 Final POE\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame_Content.g.cs
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 Final POE\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame_MarkupCompile.cache
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 Final POE\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame_MarkupCompile.lref
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 Final POE\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame.exe
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 Final POE\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame.pdb
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 Final POE\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\AppData\DeweyDB.mdf
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 Final POE\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\AppData\DeweyDB_log.ldf
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 Final POE\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\DeweyDecimalGame.exe.config
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 Final POE\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\DeweyDecimalGame.exe
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 Final POE\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\DeweyDecimalGame.pdb
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 Final POE\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\AuthDLL.dll
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 Final POE\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\DBHelperDLL.dll
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 Final POE\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\MaterialDesignColors.dll
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 Final POE\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 Final POE\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\ScoreDLL.dll
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 Final POE\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\AuthDLL.pdb
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 Final POE\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\DBHelperDLL.pdb
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 Final POE\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\ScoreDLL.pdb
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 Final POE\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 Final POE\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 Final POE\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 Final POE\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\App.baml
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 Final POE\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\FindingCallNumbersGameArea.baml
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 Final POE\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\IdentifyingAreasGameArea.baml
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 Final POE\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\Login.baml
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 Final POE\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\MainWindow.baml
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 Final POE\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\Register.baml
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 Final POE\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\ReplacingBooksCategories.baml
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 Final POE\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\ReplacingBooksGameArea.baml
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 Final POE\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame.g.resources
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 Final POE\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame.Properties.Resources.resources
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 Final POE\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame.csproj.GenerateResource.cache
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 Final POE\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame.csproj.CoreCompileInputs.cache
+C:\Users\Prenoshan\Desktop\prog semester 2\Prenoshan Naidoo, 18005753, PROG7312 Final POE\Library Connect WPF Project\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame.csproj.CopyComplete
+C:\Users\Prenoshan\Desktop\prog semester 2\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\AppData\DeweyDB.mdf
+C:\Users\Prenoshan\Desktop\prog semester 2\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\AppData\DeweyDB_log.ldf
+C:\Users\Prenoshan\Desktop\prog semester 2\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\DeweyDecimalGame.exe.config
+C:\Users\Prenoshan\Desktop\prog semester 2\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\DeweyDecimalGame.exe
+C:\Users\Prenoshan\Desktop\prog semester 2\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\DeweyDecimalGame.pdb
+C:\Users\Prenoshan\Desktop\prog semester 2\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\AuthDLL.dll
+C:\Users\Prenoshan\Desktop\prog semester 2\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\DBHelperDLL.dll
+C:\Users\Prenoshan\Desktop\prog semester 2\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\MaterialDesignColors.dll
+C:\Users\Prenoshan\Desktop\prog semester 2\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Prenoshan\Desktop\prog semester 2\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\ScoreDLL.dll
+C:\Users\Prenoshan\Desktop\prog semester 2\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\AuthDLL.pdb
+C:\Users\Prenoshan\Desktop\prog semester 2\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\DBHelperDLL.pdb
+C:\Users\Prenoshan\Desktop\prog semester 2\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\ScoreDLL.pdb
+C:\Users\Prenoshan\Desktop\prog semester 2\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Prenoshan\Desktop\prog semester 2\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Prenoshan\Desktop\prog semester 2\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Prenoshan\Desktop\prog semester 2\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame.csprojAssemblyReference.cache
+C:\Users\Prenoshan\Desktop\prog semester 2\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\FindingCallNumbersGameArea.g.cs
+C:\Users\Prenoshan\Desktop\prog semester 2\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\IdentifyingAreasGameArea.g.cs
+C:\Users\Prenoshan\Desktop\prog semester 2\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\Login.g.cs
+C:\Users\Prenoshan\Desktop\prog semester 2\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\MainWindow.g.cs
+C:\Users\Prenoshan\Desktop\prog semester 2\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\Register.g.cs
+C:\Users\Prenoshan\Desktop\prog semester 2\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\ReplacingBooksCategories.g.cs
+C:\Users\Prenoshan\Desktop\prog semester 2\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\ReplacingBooksGameArea.g.cs
+C:\Users\Prenoshan\Desktop\prog semester 2\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\App.g.cs
+C:\Users\Prenoshan\Desktop\prog semester 2\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame_Content.g.cs
+C:\Users\Prenoshan\Desktop\prog semester 2\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame_MarkupCompile.cache
+C:\Users\Prenoshan\Desktop\prog semester 2\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame_MarkupCompile.lref
+C:\Users\Prenoshan\Desktop\prog semester 2\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\App.baml
+C:\Users\Prenoshan\Desktop\prog semester 2\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\FindingCallNumbersGameArea.baml
+C:\Users\Prenoshan\Desktop\prog semester 2\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\IdentifyingAreasGameArea.baml
+C:\Users\Prenoshan\Desktop\prog semester 2\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\Login.baml
+C:\Users\Prenoshan\Desktop\prog semester 2\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\MainWindow.baml
+C:\Users\Prenoshan\Desktop\prog semester 2\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\Register.baml
+C:\Users\Prenoshan\Desktop\prog semester 2\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\ReplacingBooksCategories.baml
+C:\Users\Prenoshan\Desktop\prog semester 2\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\ReplacingBooksGameArea.baml
+C:\Users\Prenoshan\Desktop\prog semester 2\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame.g.resources
+C:\Users\Prenoshan\Desktop\prog semester 2\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame.Properties.Resources.resources
+C:\Users\Prenoshan\Desktop\prog semester 2\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame.csproj.GenerateResource.cache
+C:\Users\Prenoshan\Desktop\prog semester 2\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame.csproj.CoreCompileInputs.cache
+C:\Users\Prenoshan\Desktop\prog semester 2\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame.csproj.CopyComplete
+C:\Users\Prenoshan\Desktop\prog semester 2\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame.exe
+C:\Users\Prenoshan\Desktop\prog semester 2\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame.pdb
